@@ -4,7 +4,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-felipe-dos-santos-b74b4721a/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gml_fp55/)
 
-![Guinith's GitHub stats](![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GUINITH&count_private=true))
+!['GUINITH's GitHub stats](https://github-readme-stats.vercel.app/api?username=GUINITH&count_private=true)
 
 
 ## Tecnologias que eu utilizo no meu dia-dia:
