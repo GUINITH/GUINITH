@@ -14,4 +14,4 @@
 
 <br/>
 
-Cresça cada dia, mais & mais..👍
+Cresça cada dia mais & mais..👍
